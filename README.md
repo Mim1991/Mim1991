@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px">
 
-Welcome to my Github. I'm a full stack web developer 
+Welcome to my Github.
 
 <h3> Github Stats </h3>
 <p align = "left" style ="margin: 0">
