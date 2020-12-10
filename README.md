@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Node.js and sharpening up my Ruby and JS**
 
-- 🤝 I’m looking for **new opportunities**
+- 🤝 I’m looking for **new opportunities and projects!**
 
 - 📫 How to reach me **meehir.patel12@gmail.com**
 
