@@ -24,6 +24,6 @@
   <p><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mim1991&show_icons=true&locale=en&layout=compact" alt="mim1991" /></p>
 
   <p>&nbsp;<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=mim1991&show_icons=true&locale=en" alt="mim1991" /></p>
-</div>
+</div> 
 
 
