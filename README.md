@@ -2,8 +2,9 @@
 <h3 align="center">A full stack developer and mathematician from London</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mim1991&label=Profile%20views&color=0e75b6&style=flat" alt="mim1991" /> </p>
 
+- 🏗 I'm currently building Agon (a golf competition app) and Sadhana Shala (a yoga site for a client).
 
-- 🔭 My most recent project [Dish Advisor](www.dish-advisor.com)
+- 🔭 My most recent project [Dish Advisor](www.dish-advisor.com) and a Market API
 
 - 🌱 I’m currently learning **React, Node.js and sharpening up my Ruby and JS**
 
