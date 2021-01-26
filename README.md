@@ -2,7 +2,7 @@
 <h3 align="center">A full stack developer and mathematician from London</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mim1991&label=Profile%20views&color=0e75b6&style=flat" alt="mim1991" /> </p>
 
-- 🔭 My most recent project [Dish Advisor](www.dish-advisor.com) and Shadhana Shalah
+- 🔭 My most recent project Dish Advisor and Shadhana Shalah
 
 - 🌱 I’m currently learning **React, Node.js and sharpening up my Ruby and JS**
 
