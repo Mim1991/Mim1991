@@ -7,8 +7,6 @@
 
 - 📚 I'm currently reading **You Don't Know Javascript & Moonwalking With Einstein**
 
-- 🙇🏽‍♂️ Course i'm learning **React-Tutorial.app and Complete JavaScript on Udemy**
-
 - 📫 How to reach me **meehir.patel12@gmail.com**
 
 
