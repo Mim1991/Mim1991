@@ -5,8 +5,6 @@
 
 - 🔭 My most recent project Dish Advisor and Shadhana Shalah
 
-- 🌱 I’m currently learning **React, Node.js and sharpening up my Ruby and JS**
-
 - 📚 I'm currently reading **You Don't Know Javascript & Moonwalking With Einstein**
 
 - 🙇🏽‍♂️ Course i'm learning **React-Tutorial.app and Complete JavaScript on Udemy**
