@@ -5,7 +5,7 @@
 
 - 🔭 My most recent project Dish Advisor and Shadhana Shalah
 
-- 📚 I'm currently reading **You Don't Know Javascript & Moonwalking With Einstein**
+- 📚 I'm currently reading **You Don't Know Javascript & Heroes**
 
 - 📫 How to reach me **meehir.patel12@gmail.com**
 
