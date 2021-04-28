@@ -3,7 +3,7 @@
 <h4 align="center">Check out my <span><a href="http://www.meehirpatel.io" target="_blank">website 👉🏽</a></span></h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mim1991&label=Profile%20views&color=0e75b6&style=flat" alt="mim1991" /> </p>
 
-- 🔭 My most recent project Dish Advisor and Shadhana Shalah
+- 🔭 My most recent project The Book Club & Personal Site
 
 - 📚 I'm currently reading **You Don't Know Javascript & Heroes**
 
