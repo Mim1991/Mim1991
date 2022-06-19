@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px">, I'm Meehir</h1>
+<h1 align="center">Hi, I'm Meehir</h1>
 <h3 align="center">A full stack developer and mathematician from London</h3>
 <h4 align="center">Check out my <span><a href="http://www.meehirpatel.io" target="_blank">website 👉🏽</a></span></h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mim1991&label=Profile%20views&color=0e75b6&style=flat" alt="mim1991" /> </p>
